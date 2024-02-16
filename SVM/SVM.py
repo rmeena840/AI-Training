@@ -19,7 +19,7 @@ clf.fit(x_train, y_train)
 
 y_pred = clf.predict(x_test)
 acc = metrics.accuracy_score(y_test, y_pred)
-print("SVM accuracy: ",acc)
+print("SVM accuracy: ", acc)
 
 knn = KNeighborsClassifier(n_neighbors=13)
 knn.fit(x_train, y_train)
