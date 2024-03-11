@@ -4,3 +4,4 @@
 # 3. Mini Batch Gradient Descent
 # 4. Chain Rule
 # 5. Tensorboard for visualization and debugging
+# 6. Neuroevolutionary Algorithm or NEAT
