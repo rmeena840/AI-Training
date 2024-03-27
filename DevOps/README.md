@@ -1,0 +1,6 @@
+- check sonarcloud portla for sonar issues.
+- Use ACM on AWS to request certificate for domain purchased.
+- Use vagrant for lightweight VM on AWS terminal
+- EBS is used to attach to particular instance whereas EFS can be used to attach to multiple instances.
+- ELB is used for load balancer.
+- Auto scaling group can be created to automatically add the instances.

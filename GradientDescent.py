@@ -13,3 +13,4 @@
 # 3. Whener there D number of dummy variables, then there should be D-1 number of dummy variables.
 # 4. Check this link: https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d
 # useful data set along with examples are available
+# 5. Feature scaling is not needed for decision tree and random forrest.
