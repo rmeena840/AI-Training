@@ -4,3 +4,7 @@
 - EBS is used to attach to particular instance whereas EFS can be used to attach to multiple instances.
 - ELB is used for load balancer.
 - Auto scaling group can be created to automatically add the instances.
+- Create jenkins IAM user for running scripts.
+- Use ECS service for containerizing and deployment of app.
+- NAT gateway allows to connect private subnet to internet via interne gateway.
+- Internet gateway allows to connect public subnet to internet.

@@ -14,3 +14,5 @@
 # 4. Check this link: https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d
 # useful data set along with examples are available
 # 5. Feature scaling is not needed for decision tree and random forrest.
+# 6. Mapping to higher dimension can be computer intensive.
+
