@@ -8,3 +8,4 @@
 - Use ECS service for containerizing and deployment of app.
 - NAT gateway allows to connect private subnet to internet via interne gateway.
 - Internet gateway allows to connect public subnet to internet.
+- VPN gateway and bastion host are the two ways to connect to host in private network.
