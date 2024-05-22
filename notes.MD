@@ -15,4 +15,5 @@
 # useful data set along with examples are available
 # 5. Feature scaling is not needed for decision tree and random forrest.
 # 6. Mapping to higher dimension can be computer intensive.
-
+# 7. Normal GD has one minima because of one convex and stochastic GD has multiple minima because of multiple minima.
+# 8. 
